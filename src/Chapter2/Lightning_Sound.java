@@ -1,3 +1,5 @@
+package Chapter2;
+
 class Lightning_Sound {
     public static void main(String[]args) {
         double time, speed, distance;

@@ -1,3 +1,5 @@
+package Chapter2;
+
 class CharArithDemo {
     public static void main(String[]args){
         char ch;

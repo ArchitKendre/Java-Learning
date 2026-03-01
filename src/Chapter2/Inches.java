@@ -1,3 +1,5 @@
+package Chapter2;
+
 class Inches {
     public static void main(String[]args) {
         long ci, im;

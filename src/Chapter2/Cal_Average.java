@@ -1,3 +1,5 @@
+package Chapter2;
+
 class Cal_Average {
     public static void main(String[] args) {
         double math = 100, science = 100, sst = 95, eng = 95, hindi = 85, ai = 100,

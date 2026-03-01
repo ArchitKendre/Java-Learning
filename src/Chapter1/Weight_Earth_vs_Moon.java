@@ -1,3 +1,5 @@
+package Chapter1;
+
 class Weight_Earth_vs_Moon {
     public static void main(String[]args) {
         double weight_earth, weight_moon;

@@ -1,4 +1,4 @@
-/*
+package Chapter1;/*
     Try This 1-1
     This program converts gallon to liters
     Name this file GalToLit.java

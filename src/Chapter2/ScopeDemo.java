@@ -1,3 +1,5 @@
+package Chapter2;
+
 class ScopeDemo {
     public static void main(String[] args) {
         int x; //known to all code within main

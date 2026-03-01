@@ -1,3 +1,5 @@
+package Chapter2;
+
 class Hypot {
     public static void main(String[]args) {
         double x,y,z;

@@ -1,3 +1,5 @@
+package Chapter1;
+
 /*
     This demonstrates a variable.
 

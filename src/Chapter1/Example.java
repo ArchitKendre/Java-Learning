@@ -1,3 +1,5 @@
+package Chapter1;
+
 /*
     This is a simple Java Program.
     Call this file Example.java.

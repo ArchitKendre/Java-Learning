@@ -1,3 +1,5 @@
+package Chapter2;
+
 class VarInitDemo {
     public static void main(String[] args) {
         int x;

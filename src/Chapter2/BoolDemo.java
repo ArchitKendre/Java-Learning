@@ -1,3 +1,5 @@
+package Chapter2;
+
 class BoolDemo{
     public static void main(String[]args) {
         boolean b;

@@ -1,3 +1,5 @@
+package Chapter1;
+
 class InchToMetreTable {
     public static void main(String[]args) {
         double inch, meter, counter;
